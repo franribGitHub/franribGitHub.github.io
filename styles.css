@@ -1,9 +1,10 @@
 img {
-    width: 200px;
+    width: 800px;
 }
 body {
     text-align: center;
-    font-family: "Arial";
-    background: lime;
+    font-family: "Comic Sans MS";
+    font-size: larger;
+    background: white;
     color: black;
 }
