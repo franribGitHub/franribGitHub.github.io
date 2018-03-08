@@ -1,10 +1,11 @@
 img {
-    width: 800px;
+    width: 80px;
 }
 body {
     text-align: center;
     font-family: "Comic Sans MS";
     font-size: larger;
-    background: white;
+    background-image: url("https://media1.giphy.com/media/26BRyql7J3iOx875u/200w.gif");
+    background-size: 500px;
     color: black;
 }
